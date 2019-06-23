@@ -1,0 +1,7 @@
+"use strict";
+Page({
+    data: {},
+    onLoad: function () {
+    },
+});
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZGV0YWlsLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiZGV0YWlsLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7QUFJQSxJQUFJLENBQUM7SUFDRCxJQUFJLEVBQUUsRUFFTDtJQUtELE1BQU07SUFFTixDQUFDO0NBQ0osQ0FBQyxDQUFBIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXHJcbiAqIOWGheWuueivpuaDhVxyXG4gKiBAYXV0aG9yIFBoaWxpcFxyXG4gKi9cclxuUGFnZSh7XHJcbiAgICBkYXRhOiB7XHJcbiAgICAgICAgICAgIFxyXG4gICAgfSxcclxuXHJcbiAgICAvKipcclxuICAgICAqIEBIYW5kbGVyXHJcbiAgICAgKi9cclxuICAgIG9uTG9hZCAoKSB7XHJcbiAgICAgICAgXHJcbiAgICB9LFxyXG59KVxyXG4iXX0=

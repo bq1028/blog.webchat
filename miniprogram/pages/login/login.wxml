@@ -1,0 +1,8 @@
+<view class="page page-login">
+  <view class="panel">
+    <text class="title">登陆</text>
+    <advanced-input placeholder="请输入用户名" bind:handleInput="handleUserChange" value="{{username}}" />
+    <advanced-input placeholder="请输入密码" password bind:bindinput="handlePasswordChange" value="{{password}}" />
+    <button class="button button__login" type="primary" loading="{{loading}}" bindtap="handleLogin">登陆</button>
+  </view>
+</view>

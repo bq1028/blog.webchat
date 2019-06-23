@@ -1,0 +1,4 @@
+<view class="advanced-input">
+    <text class="label">{{label}}</text>
+    <input class="input" bindinput="handleInput" password="{{password}}" value="{{value}}" placeholder="{{placeholder}}" />
+</view>

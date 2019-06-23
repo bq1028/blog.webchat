@@ -1,0 +1,52 @@
+.page-home .services {
+    display: flex;
+    border: 2px solid #eee;
+    padding: 10rpx 15rpx;
+    margin: 0 45rpx;
+}
+
+.page-home .services .item {
+    flex-basis: 33.33%;
+    text-align: center;
+    font-size: 32rpx;
+}
+
+.page-home .news-list {
+    margin: 25rpx 45rpx 0;
+}
+
+.page-home .news-list .new {
+    padding: 35rpx 40rpx;
+    border-bottom: 2px solid #eee;
+    border-top: 2px solid #eee;
+}
+
+.page-home .news-list .new .title {
+    font-size: 32rpx;
+}
+
+.page-home .news-list .new .info {
+    margin: 10rpx 0 0 0;
+    font-size: 28rpx;
+}
+
+.page-home .news-list .new .info .publish-date {
+
+}
+
+.page-home .news-list .new .info .author {
+    margin: 0 0 0 10rpx;
+}
+
+.page-home .news-list .new .abbreviation {
+    display: flex;
+}
+
+.page-home .news-list .new .abbreviation .thumbnail {
+    height:120rpx;
+    width:120rpx;
+}
+
+.page-home .news-list .new .abbreviation .content {
+    font-size: 28rpx;
+}

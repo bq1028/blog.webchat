@@ -1,0 +1,10 @@
+<view className="page page-detail">
+    <text class="title"></text>
+    <view class="info">
+        <text class="publish-date"></text>
+        <text class="author"></text>
+    </view>
+    <view class="content">
+    
+    </view>
+</view>

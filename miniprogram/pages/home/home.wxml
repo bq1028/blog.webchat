@@ -1,0 +1,31 @@
+<view class="page page-home">
+    <view class="services">
+        <view class="service-item">
+            <image src="" class="service-item-icon" />
+            <text>扫描</text>
+        </view>
+        <view class="item">
+            <image src="" class="service-item-icon" />
+            <text>入侵</text>
+        </view>
+        <view class="item">
+            <image src="" class="service-item-icon" />
+            <text>自毁</text>
+        </view>
+    </view>
+    <view class="news-list">
+        <view class="new">
+            <text class="title">天使宝宝1号</text>
+            <view class="info">
+                <text class="publish-date">2019-06-09 16:00</text>
+                <text class="author">Philip</text>
+            </view>
+            <view class="abbreviation">
+                <image class="thumbnail" />
+                <text class="content">
+                    我是皮卡丘我很厉害
+                </text>
+            </view>
+        </view>
+    </view>
+</view>
