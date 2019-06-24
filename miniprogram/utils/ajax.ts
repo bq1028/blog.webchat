@@ -9,17 +9,17 @@ export function ajax (url :string, options :object, data :object) {
     const promise = new Promise(function (resolve: Function, reject: Function) {
         requestTask = wx.request({
             ...{ 'content-type': 'application/json' },
-            ...{url},
+            ...{ url },
             ...options,
-            ...{data},
+            ...{ data },
             success (res) {
                 resolve(res);
             },
             fail (res) {
                 reject(res);
-            }
+            },
         });
-    })
+    });
 
     promise.abort = function () {
         requestTask.abort();
